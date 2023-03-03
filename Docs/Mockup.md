@@ -1,7 +1,7 @@
 
 # Diseño de interfaz de usuario
 <p align="center">
-[![Crochet-Manager-App.png](https://i.postimg.cc/JnxBDLkd/Crochet-Manager-App.png)](https://postimg.cc/ZB9q2Xjr)
+    <img src="https://i.postimg.cc/JnxBDLkd/Crochet-Manager-App.png">
 </p>
 
 La interfaz de usuario de la aplicación "Crochet Manager App" tiene elementos y la estructura de la aplicación [Crochet.land](https://play.google.com/store/apps/details?id=land.crochet.app&hl=en&gl=US) que inspiraron las mejoras que se verán a continuación.
