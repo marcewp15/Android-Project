@@ -1,6 +1,9 @@
 
 # Diseño de interfaz de usuario
+<p align="center">
 [![Crochet-Manager-App.png](https://i.postimg.cc/JnxBDLkd/Crochet-Manager-App.png)](https://postimg.cc/ZB9q2Xjr)
+</p>
+
 La interfaz de usuario de la aplicación "Crochet Manager App" tiene elementos y la estructura de la aplicación [Crochet.land](https://play.google.com/store/apps/details?id=land.crochet.app&hl=en&gl=US) que inspiraron las mejoras que se verán a continuación.
 El diseño de esta interfaz de usuario se puede visualizar en [Marvel App](https://marvelapp.com/prototype/2i8d61b6).
 
