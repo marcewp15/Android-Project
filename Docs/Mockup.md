@@ -12,39 +12,39 @@ Los colores de esta interfaz de usuario están inspirados gracias a la psicolog�
 
 Las principales funcionalidades de "Crochet Manager App" son:
 
-1. **Vista de inicio de sesión:** aquí podrán acceder por medio de un correo y una contraseña los usuarios.
+**1. Vista de inicio de sesión:** aquí podrán acceder por medio de un correo y una contraseña los usuarios.
 
 <p align="center">
     <img src="https://i.postimg.cc/P5XWrbrd/Login.png">
 </p>
 
-2. **Perfil:** cada usuario tendrá su perfil donde verá información relevante sobre su cuenta, los proyectos que guarda en la app, seguidores, etc.
+**2. Perfil:** cada usuario tendrá su perfil donde verá información relevante sobre su cuenta, los proyectos que guarda en la app, seguidores, etc.
 
 <p align="center">
     <img src="https://i.postimg.cc/sDySwPW5/Vista-Perfil.png">
 </p>
 
-3. **Vista principal de proyectos:** en esta vista los usuarios podrán ver un listado de los proyectos hechos y por hacer y ver una descripción general de cada proyecto.
+**3. Vista principal de proyectos:** en esta vista los usuarios podrán ver un listado de los proyectos hechos y por hacer y ver una descripción general de cada proyecto.
 
 <p align="center">
     <img src="https://i.postimg.cc/jdXf9W6m/Vista-principal-proyectos.png">
 </p>
 
-4. **Vista interna del proyecto:** aquí los usuarios encontrarán detalles del proyecto.
+**4. Vista interna del proyecto:** aquí los usuarios encontrarán detalles del proyecto.
 
 <p align="center">
     <img src="https://i.postimg.cc/G3vGFg4c/Vista-detallada-de-los-proyectos.png">
     <img src="https://i.postimg.cc/9fzyyW7S/Vista-detallada-listado-de-materiales.png">
 </p>
 
-5. **Calculadora de ganancia:** en esta vista los usuarios podrán hacer el cálculo de lo que pueden cobrar por su trabajo de acuerdo a varios factores como: moneda loca, precio de hora trabajada, coste de materiales, indice de ganancias.
+**5. Calculadora de ganancia:** en esta vista los usuarios podrán hacer el cálculo de lo que pueden cobrar por su trabajo de acuerdo a varios factores como: moneda loca, precio de hora trabajada, coste de materiales, indice de ganancias.
 
 <p align="center">
     <img src="https://i.postimg.cc/hjdx3pM1/Vista-calculo-de-ganancias.png">
     <img src="https://i.postimg.cc/90P9c064/Vista-calculo-final-de-ganancias.png">
 </p>
 
-6. **Registro de materiales:** en esta vista los usuarios pueden ingresar uno a uno los materiales necesarios para el proyecto (nombre, precio, cantidad).
+**6. Registro de materiales:** en esta vista los usuarios pueden ingresar uno a uno los materiales necesarios para el proyecto (nombre, precio, cantidad).
 
 <p align="center">
     <img src="https://i.postimg.cc/nh3vssCB/Vista-ingreso-de-materiales.png">
