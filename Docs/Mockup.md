@@ -18,26 +18,26 @@ Las principales funcionalidades de "Crochet Manager App" son:
     <img src="https://i.postimg.cc/P5XWrbrd/Login.png">
 </p>
 
-**2. Perfil:** cada usuario tendrá su perfil donde verá información relevante sobre su cuenta, los proyectos que guarda en la app, seguidores, etc.
+**2. Perfil:** cada usuario tendrá su perfil donde verá información relevante sobre su cuenta, los proyectos que guarda en la app, seguidores, locación, moneda local).
 
 <p align="center">
     <img src="https://i.postimg.cc/sDySwPW5/Vista-Perfil.png">
 </p>
 
-**3. Vista principal de proyectos:** en esta vista los usuarios podrán ver un listado de los proyectos hechos y por hacer y ver una descripción general de cada proyecto.
+**3. Vista principal de proyectos:** en esta vista los usuarios podrán ver un listado de los proyectos hechos y por hacer y ver una descripción general de cada proyecto (tiempo empleado en el proyecto hasta el momento, costo, estado del proyecto -en curso, finalizado-).
 
 <p align="center">
     <img src="https://i.postimg.cc/jdXf9W6m/Vista-principal-proyectos.png">
 </p>
 
-**4. Vista interna del proyecto:** aquí los usuarios encontrarán detalles del proyecto.
+**4. Vista interna del proyecto:** aquí los usuarios encontrarán detalles del proyecto (Listado de materiales, fotos del proceso que pueden guardar de manera local, cálculo de precios).
 
 <p align="center">
     <img src="https://i.postimg.cc/G3vGFg4c/Vista-detallada-de-los-proyectos.png">
     <img src="https://i.postimg.cc/9fzyyW7S/Vista-detallada-listado-de-materiales.png">
 </p>
 
-**5. Calculadora de ganancia:** en esta vista los usuarios podrán hacer el cálculo de lo que pueden cobrar por su trabajo de acuerdo a varios factores como: moneda loca, precio de hora trabajada, coste de materiales, indice de ganancias.
+**5. Calculadora de ganancia:** en esta vista los usuarios podrán hacer el cálculo de lo que pueden cobrar por su trabajo de acuerdo a varios factores como: moneda local, precio por hora trabajada, coste de materiales, indice de ganancias.
 
 <p align="center">
     <img src="https://i.postimg.cc/hjdx3pM1/Vista-calculo-de-ganancias.png">
